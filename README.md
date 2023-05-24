@@ -79,7 +79,7 @@
 - Add request -> Authorization
 - Type - OAuth 2.0
 - Callback URL [https://example.com/logout]
-- Auth URL [https://diolive.auth.sa-east-1.amazoncognito.com/login]
+- Auth URL [https://mkz.diolive.auth.sa-east-1.amazoncognito.com/login]
 - Client ID - obter o Client ID do Cognito em App clients
 - Scope [email - openid]
 - Client Authentication [Send client credentials in body]
